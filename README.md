@@ -119,5 +119,4 @@ Blocked: 4750
 
 
 ## Author
-**Pooja Kantrod** – Senior Cognitive Engineer  
-Portfolio-ready, demonstrates **Java concurrency, system design, and stress testing skills**.
+**Pooja Kantrod**
