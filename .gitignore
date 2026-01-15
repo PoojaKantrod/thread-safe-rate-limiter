@@ -1,0 +1,15 @@
+# Maven
+/target/
+
+# IDE files
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
