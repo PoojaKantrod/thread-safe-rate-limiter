@@ -67,11 +67,11 @@ Allows requests based on available tokens that refill over time.
 
 ## 🧠 Comparison Summary
 
-| Algorithm       | Burst Handling | Accuracy | Complexity | Distributed Friendly |
-|----------------|---------------|----------|------------|----------------------|
-| Fixed Window   | ❌ Poor        | ❌ Low   | ⭐ Easy     | ⭐ Yes               |
-| Sliding Window | ⭐ Excellent   | ⭐ High  | ❌ High    | ❌ Hard              |
-| Token Bucket   | ⭐ Excellent   | ⭐ High  | ⚖️ Medium | ⭐ Yes               |
+| Algorithm       | Burst Handling | Accuracy | Complexity | Distributed Friendly 
+|----------------|---------------|----------|------------|----------------------
+| Fixed Window   | ❌ Poor        | ❌ Low   | ⭐ Easy     | ⭐ Yes               
+| Sliding Window | ⭐ Excellent   | ⭐ High  | ❌ High    | ❌ Hard              
+| Token Bucket   | ⭐ Excellent   | ⭐ High  | ⚖️ Medium | ⭐ Yes               
 
 ---
 
